@@ -1,0 +1,13 @@
+body 
+{
+	height:1000px;
+	color: rgb(162, 163, 113);
+	background-color: rgb(13, 12, 12);
+}
+a
+{
+	padding-top: 0;
+	padding-right: 24;
+	padding-left: 24;
+	padding-bottom: 0;
+}
